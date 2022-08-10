@@ -1,0 +1,1 @@
+Developed primarily utilizing Java and the topics of Object-Oriented Programming and Inheritance. In this game players are assigned three different characters, each with different abilities. Players play each turn by guessing correctly between a randomly generated set of numbers where each set is determined by the chosen characters speed abilities. 
